@@ -1,6 +1,6 @@
 # Emma Challenge
 
-This is a simple stock trading application developed using Node.js and Express.js. The purpose of the application is to reward new customers with a free share when they first sign up to use the trading service.
+This is a simple stock trading endpoint developed using Node.js and Express.js. The purpose of the application is to reward new customers with a free share when they first sign up to use the trading service.
 
 ## Getting Started
 
