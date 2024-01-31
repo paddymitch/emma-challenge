@@ -25,10 +25,12 @@ This is a simple stock trading application developed using Node.js and Express.j
   
 ### Running the Application
 Start the server: npm start
+
 The server will be running at http://localhost:3000.
 
 ### Running Tests
 To run tests, execute: npm test
+
 This will execute Mocha and run the tests defined in the test.js file.
 
 ### Usage
