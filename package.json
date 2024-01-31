@@ -2,13 +2,22 @@
   "name": "emma-challenge",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "test": "mocha"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^3.2.5",
+    "chai-http": "^4.4.0",
+    "dotenv": "^16.4.1",
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.4"
   }
 }
